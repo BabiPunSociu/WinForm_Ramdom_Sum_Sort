@@ -1,0 +1,39 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\bin\Debug\Bai1_Trang55.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\bin\Debug\Bai1_Trang55.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\bin\Debug\Bai1_Trang55.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\bin\Debug\aa\Bai1_Trang55.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Bai1_Trang55.frmMain.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Bai1_Trang55.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Bai1_Trang55.frmMain.aa.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\aa\Bai1_Trang55.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Bai1_Trang55.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai1_Trang55\obj\Debug\Bai1_Trang55.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\Bai1_Trang55.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\Bai1_Trang55.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\Bai1_Trang55.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\aa\Bai1_Trang55.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.frmMain.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.frmMain.aa.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\aa\Bai1_Trang55.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.exe
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\Bai1_Trang55.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\Bai1_Trang55.exe
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\bin\Debug\Bai1_Trang55.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.frmMain.resources
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Bai1_Trang55.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LapTrinhTrucQuan\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai3_Trang57\Bai1_Trang55\obj\Debug\Tính tổng dãy số.csproj.CoreCompileInputs.cache
